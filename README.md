@@ -1,11 +1,11 @@
 # art2photo
 art2photo utilizes CycleGAN to generate artistic drawing from a real photo and vice versa. The arts images are from Wikiart and the real photos are from Flickr with landscape tags.
 
-![epoch007_real_A.png](https://github.com/mingir2/art2photo_model/blob/master/art2photo_cyclegan/web/images/epoch007_real_A.png)
-![epoch007_real_B.png](https://github.com/mingir2/art2photo_model/blob/master/art2photo_cyclegan/web/images/epoch007_real_B.png)
+![epoch007_real_A.png](https://github.com/mingir2/art2photo/blob/master/art2photo_cyclegan/web/images/epoch007_real_A.png)
+![epoch007_real_B.png](https://github.com/mingir2/art2photo/blob/master/art2photo_cyclegan/web/images/epoch007_real_B.png)
 
-![epoch007_fake_B.png](https://github.com/mingir2/art2photo_model/blob/master/art2photo_cyclegan/web/images/epoch007_fake_B.png)
-![epoch007_fake_A.png](https://github.com/mingir2/art2photo_model/blob/master/art2photo_cyclegan/web/images/epoch007_fake_A.png)
+![epoch007_fake_B.png](https://github.com/mingir2/art2photo/blob/master/art2photo_cyclegan/web/images/epoch007_fake_B.png)
+![epoch007_fake_A.png](https://github.com/mingir2/art2photo/blob/master/art2photo_cyclegan/web/images/epoch007_fake_A.png)
 
 ## Setting up Google Cloud Platform
 1. Create a new project and add a VM instance of "Deep Learning VM".
