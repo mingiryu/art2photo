@@ -1,5 +1,5 @@
 # art2photo
-art2photo utilizes CycleGAN to generate artistic drawing from a real photo and vice versa. The arts images are from Wikiart and the real photos are from Flickr with landscape tags.
+art2photo utilizes CycleGAN to generate artistic images from a real photos and vice versa. The arts are from Wikiart and the pictures are from Flickr with landscape tags.
 
 ![epoch007_real_A.png](https://github.com/mingir2/art2photo/blob/master/art2photo_cyclegan/web/images/epoch007_real_A.png)
 ![epoch007_real_B.png](https://github.com/mingir2/art2photo/blob/master/art2photo_cyclegan/web/images/epoch007_real_B.png)
